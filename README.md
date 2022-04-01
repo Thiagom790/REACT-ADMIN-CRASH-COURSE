@@ -32,7 +32,7 @@ $ cd REACT-ADMIN-CRASH-COURSE
 $ yarn
 
 # Iniciando em modo dev
-$ yarn start
+$ yarn dev
 
 # Endereço servidor <http://localhost:3000>
 ```

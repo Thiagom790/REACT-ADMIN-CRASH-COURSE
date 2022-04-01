@@ -1,0 +1,44 @@
+<h1 align="center">React Admin Crash Course</h1>
+
+<p align="center">
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Começando</a> &#xa0; | &#xa0;
+  <a href="https://github.com/Thiagom790" target="_blank">Autor</a>
+</p>
+
+<br>
+
+## :dart: Sobre ##
+
+Projeto de estudo do framework react admin utilizando como base o video [react-admin crash course](https://www.youtube.com/watch?v=HRmdj-HpJyE)
+
+## :rocket: Tecnologias ##
+
+- [Mui](https://mui.com/)
+- [React](https://pt-br.reactjs.org/)
+- [React Admin](https://marmelab.com/react-admin/)
+
+## :checkered_flag: Começando ##
+
+```bash
+# Clonando projeto
+$ git clone https://github.com/Thiagom790/REACT-ADMIN-CRASH-COURSE
+
+# Acessando
+$ cd REACT-ADMIN-CRASH-COURSE
+
+# Instalando dependencias
+$ yarn
+
+# Iniciando em modo dev
+$ yarn start
+
+# Endereço servidor <http://localhost:3000>
+```
+
+Feito com :heart: por <a href="https://github.com/Thiagom790" target="_blank">Thiagom790</a>
+
+&#xa0;
+
+<a href="#top">Voltar ao Inicio</a>
